@@ -1,6 +1,6 @@
 # Jungleflix 🌴⭐
 
-Images and css for Jellyfin
+Custom images and css for Jellyfin
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/stpnwf/ZestyTheme@latest/theme.css');
