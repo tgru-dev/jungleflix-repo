@@ -1,3 +1,3 @@
-# imagecdn
+# Jungleflix 🌴⭐
 
 and css for Jellyfin
