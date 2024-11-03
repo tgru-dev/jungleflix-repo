@@ -1,4 +1,4 @@
-# Jungleflix 🌴⭐
+# Jungleflix 🌴✨
 
 Custom images and css for Jellyfin
 
